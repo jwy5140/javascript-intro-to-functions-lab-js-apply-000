@@ -12,8 +12,8 @@ function whisper(string)
 
 function logShout(string)
 {
-  var x = function
-  console.log(string2);
+  var x = function shout(string);
+  console.log(x);
 }
 
 function logWhisper(string)
